@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "20757040903",
+    "firebase_url": "https://vorem-a0778.firebaseio.com",
+    "project_id": "vorem-a0778",
+    "storage_bucket": "vorem-a0778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20757040903:android:f4ae589ca491c4f68a3fa2",
+        "android_client_info": {
+          "package_name": "com.uvorem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20757040903-mn0ao0e6nb23dnih86rmeeg3ksb35ru0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uvorem",
+            "certificate_hash": "42ab4f826d4d6f5f7a5b8a662d168f7b5b099786"
+          }
+        },
+        {
+          "client_id": "20757040903-umn0eff2bmnqnrem1f3cipmas3vp26rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uvorem",
+            "certificate_hash": "92d8bed663078e61e7156e0b37ec7d2142d5aca8"
+          }
+        },
+        {
+          "client_id": "20757040903-443dv3f8rmlnqpcng845h7pr64ko82c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerkmUXZ_6jmn9t5jq0KAT5nRtfOL_EQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20757040903-443dv3f8rmlnqpcng845h7pr64ko82c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5889275287697304~9307033908"
+    }
+  ],
+  "configuration_version": "1"
+}

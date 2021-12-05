@@ -1,0 +1,9 @@
+rootProject.name = 'Uvorem'
+include ':react-native-paypal-lib'
+project(':react-native-paypal-lib').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-paypal-lib/android')
+include ':react-native-shared-preferences'
+project(':react-native-shared-preferences').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-shared-preferences/android')
+include ':react-native-push-notification'
+project(':react-native-push-notification').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-push-notification/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
